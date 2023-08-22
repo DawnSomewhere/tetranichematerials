@@ -1,0 +1,27 @@
+{
+    "key": "bamboo",
+    "category": "wood",
+    "primary": 3.0,
+    "secondary": 1.0,
+    "tertiary": 7.5,
+    "durability": 22,
+    "integrityCost": 1,
+    "integrityGain": 2,
+    "magicCapacity": 60,
+    "toolLevel": "minecraft:wood",
+    "toolEfficiency": 1.5,
+    "tints": {
+        "glyph": "699022",
+        "texture": "5e8a24"
+    },
+    "textures": [
+        "crude",
+        "wooden"
+    ],
+    "material": {
+        "items": [ "minecraft:bamboo" ]
+    },
+    "requiredTools": {
+        "axe_dig": "minecraft:wood"
+    }
+}

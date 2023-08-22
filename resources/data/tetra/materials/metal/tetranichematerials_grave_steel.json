@@ -1,0 +1,35 @@
+{
+  "key" : "tetranichematerials_grave_steel",
+  "category" : "metal",
+  "primary": 6,
+  "secondary": 3.8,
+  "tertiary": 2.6,
+  "durability": 650,
+  "integrityCost": 2,
+  "integrityGain": 6,
+  "magicCapacity": 72,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 7,
+  "tints" : {
+    "glyph" : "fff9f0",
+    "texture" : "fff9f0"
+  },
+  "textures" : [ 
+    "metal",
+    "default"
+  ],
+  "material" : {
+    "items" : [ "tetranichematerials:grave_steel_ingot" ]
+  },
+  "improvements": {
+    "tetranichematerials.double_life_bane": 1,
+    "tetranichematerials.single_life_bane": 1,
+    "tetranichematerials.sword_life_bane": 1
+  },
+  "effects":{
+    "blockingReflect":[10,0.1]
+  },
+  "requiredTools" : {
+    "hammer_dig": "minecraft:iron"
+  }
+}

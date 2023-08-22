@@ -1,0 +1,27 @@
+{
+    "key": "twilightforest_tower_wood",
+    "category": "wood",
+    "primary": 6,
+    "secondary": 5.5,
+    "tertiary": 5,
+    "durability": 580,
+    "integrityCost": 3,
+    "integrityGain": 8,
+    "magicCapacity": 125,
+    "toolLevel": "minecraft:diamond",
+    "toolEfficiency": 9,
+    "tints": {
+        "glyph": "9a5028",
+        "texture": "9a5028"
+    },
+    "textures": [
+        "crude",
+        "wooden"
+    ],
+    "material": {
+        "items": [ "twilightforest:towerwood" ]
+    },
+    "requiredTools": {
+        "axe_dig": "minecraft:diamond"
+    }
+}

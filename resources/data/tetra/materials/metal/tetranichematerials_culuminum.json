@@ -1,0 +1,27 @@
+{
+  "key" : "tetranichematerials_culuminum",
+  "category" : "metal",
+  "primary": 5,
+    "secondary": 2.5,
+    "tertiary": 6.5,
+    "durability": 150,
+    "integrityCost": 1,
+    "integrityGain": 6,
+    "magicCapacity": 80,
+  "toolLevel" : "minecraft:iron",
+  "toolEfficiency" : 6,
+  "tints" : {
+    "glyph" : "f0feff",
+    "texture" : "f0feff"
+  },
+  "textures" : [ 
+    "metal", 
+    "default" 
+  ],
+  "material" : {
+    "items" : [ "tetranichematerials:culuminum_ingot" ]
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:gold"
+  }
+}

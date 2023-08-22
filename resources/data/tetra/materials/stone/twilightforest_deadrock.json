@@ -1,0 +1,31 @@
+{
+    "key": "twilightforest_deadrock",
+    "category": "stone",
+    "primary": 8,
+    "secondary": 7,
+    "tertiary": 0,
+    "durability": 1000,
+    "integrityCost": 4,
+    "integrityGain": 1,
+    "magicCapacity": 90,
+    "toolLevel": "minecraft:netherite",
+    "toolEfficiency": 10,
+    "tints": {
+        "glyph": "3f455f",
+        "texture": "3f455f"
+    },
+    "textureOverrides": [ "items/module/sword/blade/heavy/" ],
+    "tintOverrides": false,
+    "textures": [
+        "obsidian",
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "tag": "twilightforest:deadrock"
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:netherite"
+    }
+}

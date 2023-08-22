@@ -1,0 +1,28 @@
+{
+    "key": "alexsmobs_straddlite",
+    "category": "stone",
+    "primary": 7,
+    "secondary": 3.5,
+    "tertiary": 0,
+    "durability": 250,
+    "integrityCost": 3,
+    "integrityGain": 2,
+    "magicCapacity": 90,
+    "toolLevel": "minecraft:diamond",
+    "toolEfficiency": 10,
+    "tints": {
+        "glyph": "obsidian_glyph",
+        "texture": "obsidian"
+    },
+    "textures": [
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [ "alexsmobs:straddlite" ]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:diamond"
+    }
+}

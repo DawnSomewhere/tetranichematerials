@@ -1,0 +1,30 @@
+{
+  "key" : "tetranichematerials_bronnum",
+  "category" : "metal",
+  "primary": 5.6,
+    "secondary": 3.7,
+    "tertiary": 1.9,
+    "durability": 200,
+    "integrityCost": 2,
+    "integrityGain": 6,
+    "magicCapacity": 80,
+  "toolLevel" : "minecraft:diamond",
+  "toolEfficiency" : 6.6,
+  "tints" : {
+    "glyph" : "fbe2ac",
+    "texture" : "fbe2ac"
+  },
+  "textures" : [ 
+    "metal", 
+    "default" 
+  ],
+  "material" : {
+    "items" : [ "tetranichematerials:bronnum_ingot" ]
+  },
+  "improvements": {
+    "workable": 1
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:iron"
+  }
+}

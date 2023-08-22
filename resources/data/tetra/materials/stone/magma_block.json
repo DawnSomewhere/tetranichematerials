@@ -1,0 +1,34 @@
+{
+    "replace": true,
+    "key": "magma_block",
+    "category": "stone",
+    "primary": 5,
+    "secondary": 6,
+    "tertiary": 0,
+    "durability": 100,
+    "integrityCost": 2,
+    "integrityGain": 2,
+    "magicCapacity": 60,
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": 7,
+    "tints": {
+        "glyph": "882311",
+        "texture": "882311"
+    },
+    "textures": [
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [ "minecraft:magma_block" ]
+    },
+    "improvements" : {
+        "tetranichematerials.innateSwordFireAspect" : 1,
+        "tetranichematerials.innateSingleFireAspect" : 1,
+        "tetranichematerials.innateDoubleFireAspect" : 1
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:stone"
+    }
+}

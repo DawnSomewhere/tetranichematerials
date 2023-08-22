@@ -1,0 +1,30 @@
+{
+  "key" : "tetranichematerials_lockwood",
+  "category" : "wood",
+  "primary": 6,
+  "secondary": 2.8,
+  "tertiary": 5.9,
+  "durability": 800,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 80,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 7.5,
+  "tints" : {
+    "glyph": "687660",
+    "texture": "687660"
+  },
+  "textures" : [ 
+    "metal",
+    "default"
+  ],
+  "material" : {
+    "items" : [ "tetranichematerials:lockwood_ingot" ]
+  },
+  "improvements" : {
+    "innate_armor" : 1
+  },
+  "requiredTools" : {
+    "axe_dig": "minecraft:iron"
+  }
+}

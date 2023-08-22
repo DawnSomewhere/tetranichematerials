@@ -1,0 +1,27 @@
+{
+  "key" : "tetranichematerials_blurine",
+  "category" : "metal",
+  "primary": 7.2,
+    "secondary": 4.2,
+    "tertiary": 0.4,
+    "durability": 700,
+    "integrityCost": 2,
+    "integrityGain": 8,
+    "magicCapacity": 80,
+  "toolLevel" : "minecraft:netherite",
+  "toolEfficiency" : 8.2,
+  "tints" : {
+    "glyph" : "a9f0fe",
+    "texture" : "a9f0fe"
+  },
+  "textures" : [ 
+    "metal", 
+    "heavy" 
+  ],
+  "material" : {
+    "items" : [ "tetranichematerials:blurine_ingot" ]
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:diamond"
+  }
+}

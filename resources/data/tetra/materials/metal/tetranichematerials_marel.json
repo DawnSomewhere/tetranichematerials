@@ -1,0 +1,27 @@
+{
+  "key" : "tetranichematerials_marel",
+  "category" : "metal",
+  "primary": 7.5,
+    "secondary": 3.8,
+    "tertiary": 5.6,
+    "durability": 1000,
+    "integrityCost": 2,
+    "integrityGain": 8,
+    "magicCapacity": 80,
+  "toolLevel" : "minecraft:netherite",
+  "toolEfficiency" : 8.5,
+  "tints" : {
+    "glyph" : "bab2c2",
+    "texture" : "bab2c2"
+  },
+  "textures" : [ 
+    "metal", 
+    "heavy" 
+  ],
+  "material" : {
+    "items" : [ "tetranichematerials:marel_ingot" ]
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:diamond"
+  }
+}

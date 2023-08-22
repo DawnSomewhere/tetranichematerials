@@ -1,0 +1,28 @@
+{
+    "key": "quartz_block",
+    "category": "stone",
+    "primary": 6,
+    "secondary": 2.5,
+    "tertiary": 0,
+    "durability": 50,
+    "integrityCost": 2,
+    "integrityGain": 2,
+    "magicCapacity": 60,
+    "toolLevel": "minecraft:diamond",
+    "toolEfficiency": 10,
+    "tints": {
+        "glyph": "f5f5f5",
+        "texture": "f5f5f5"
+    },
+    "textures": [
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [ "minecraft:quartz_block" ]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:stone"
+    }
+}

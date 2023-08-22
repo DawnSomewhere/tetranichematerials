@@ -1,0 +1,27 @@
+{
+    "key": "twilightforest_twilight_oak",
+    "category": "wood",
+    "primary": 3.5,
+    "secondary": 1.6,
+    "tertiary": 6.8,
+    "durability": 80,
+    "integrityCost": 1,
+    "integrityGain": 5,
+    "magicCapacity": 100,
+    "toolLevel": "minecraft:stone",
+    "toolEfficiency": 2.5,
+    "tints": {
+        "glyph": "e9c0a5",
+        "texture": "e9c0a5"
+    },
+    "textures": [
+        "crude",
+        "wooden"
+    ],
+    "material": {
+        "items": [ "twilightforest:twilight_oak_planks" ]
+    },
+    "requiredTools": {
+        "axe_dig": "minecraft:stone"
+    }
+}

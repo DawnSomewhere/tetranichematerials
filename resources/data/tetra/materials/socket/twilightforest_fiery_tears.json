@@ -1,0 +1,26 @@
+{
+  "key":"socket_twilightforest_fiery_tears",
+  "hidden":true,
+  "category":"socket",
+  "primary":0,
+  "secondary":0,
+  "tertiary":0,
+  "durability":50,
+  "integrityCost":1,
+  "integrityGain":0,
+  "magicCapacity":0,
+  "toolLevel":0,
+  "toolEfficiency":0,
+  "effects": {
+    "tetranichematerials.innateFireAspect": 10
+  },
+  "tints":{
+    "glyph":"ff0000",
+    "texture":"ff0000"
+  },
+  "textures":["default"],
+  "experienceCost":3,
+  "material":{
+    "items":["twilightforest:fiery_tears"]
+  }
+}

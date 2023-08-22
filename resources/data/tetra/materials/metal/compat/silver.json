@@ -1,0 +1,36 @@
+{
+    "replace": true,
+    "key": "silver",
+    "category": "metal",
+    "primary": 3.1,
+    "secondary": 4.3,
+    "tertiary": 1.8,
+    "durability": 50,
+    "integrityCost": 2,
+    "integrityGain": 4,
+    "magicCapacity": 126,
+    "toolLevel": "minecraft:gold",
+    "toolEfficiency": 4.1,
+    "tints": {
+        "glyph": "silver_glyph",
+        "texture": "silver"
+    },
+    "textures": [
+        "shiny",
+        "metal"
+    ],
+    "material": {
+        "tag": "forge:ingots/silver"
+    },
+    "effects": {
+        "stabilizing": 10
+    },
+    "improvements": {
+        "tetranichematerials.innate_sword_smiting": 3,
+        "tetranichematerials.innate_single_smiting": 3,
+        "tetranichematerials.innate_double_smiting": 3
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:wood"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "key": "twilightforest_mangrove",
+    "category": "wood",
+    "primary": 3,
+    "secondary": 1.7,
+    "tertiary": 4.9,
+    "durability": 30,
+    "integrityCost": 1,
+    "integrityGain": 3,
+    "magicCapacity": 150,
+    "toolLevel": "minecraft:wood",
+    "toolEfficiency": 2,
+    "tints": {
+        "glyph": "f5de9e",
+        "texture": "f5de9e"
+    },
+    "textures": [
+        "crude",
+        "wooden"
+    ],
+    "material": {
+        "items": [ "twilightforest:mangrove_planks" ]
+    },
+    "requiredTools": {
+        "axe_dig": "minecraft:wood"
+    }
+}

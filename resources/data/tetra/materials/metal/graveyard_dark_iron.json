@@ -1,0 +1,33 @@
+{
+    "replace": true,
+    "key": "graveyard_dark_iron",
+    "category": "metal",
+    "primary": 5,
+    "secondary": 3.8,
+    "tertiary": 1,
+    "durability": 250,
+    "integrityCost": 2,
+    "integrityGain": 5,
+    "magicCapacity": 84,
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": 6,
+    "tints": {
+        "glyph": "2a2a2d",
+        "texture": "2a2a2d"
+    },
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "material": {
+        "items": [ "graveyard:dark_iron_ingot" ]
+    },
+    "improvements": {
+        "tetranichematerials.double_life_bane": 1,
+        "tetranichematerials.single_life_bane": 1,
+        "tetranichematerials.sword_life_bane": 1
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:gold"
+    }
+}

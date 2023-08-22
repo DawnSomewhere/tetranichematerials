@@ -1,0 +1,31 @@
+{
+    "key": "twilightforest_mazestone",
+    "category": "stone",
+    "primary": 7,
+    "secondary": 6,
+    "tertiary": 0,
+    "durability": 650,
+    "integrityCost": 3,
+    "integrityGain": 1,
+    "magicCapacity": 90,
+    "toolLevel": "minecraft:netherite",
+    "toolEfficiency": 9,
+    "tints": {
+        "glyph": "5e6178",
+        "texture": "5e6178"
+    },
+    "textureOverrides": [ "items/module/sword/blade/heavy/" ],
+    "tintOverrides": false,
+    "textures": [
+        "obsidian",
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "tag": "twilightforest:mazestone"
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:diamond"
+    }
+}

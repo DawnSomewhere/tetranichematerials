@@ -1,0 +1,31 @@
+{
+  "replace": true,
+  "key" : "twilightforest_ironwood",
+  "category" : "wood",
+  "primary" : 5.0,
+  "secondary" : 2.5,
+  "tertiary" : 5.5,
+  "durability" : 512,
+  "integrityCost" : 2,
+  "integrityGain" : 4,
+  "magicCapacity" : 84,
+  "toolLevel" : "minecraft:iron",
+  "toolEfficiency" : 6.5,
+  "tints" : {
+    "glyph" : "868877",
+    "texture" : "868877"
+  },
+  "textures" : [ 
+    "metal", 
+    "default" 
+  ],
+  "material" : {
+    "items" : [ "twilightforest:ironwood_ingot" ]
+  },
+  "improvements" : {
+    "innate_armor" : 1
+  },
+  "requiredTools" : {
+    "axe_dig": "minecraft:gold"
+  }
+}

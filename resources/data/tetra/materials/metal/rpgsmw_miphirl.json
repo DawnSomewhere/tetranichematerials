@@ -1,0 +1,24 @@
+{
+  "key" : "rpgsmw_miphrilignot",
+  "category" : "metal",
+  "primary" : 6.0,
+  "secondary" : 3.0,
+  "tertiary" : 6,
+  "durability" : 1000,
+  "integrityCost" : 2,
+  "integrityGain" : 6,
+  "magicCapacity" : 90,
+  "toolLevel" : "minecraft:diamond",
+  "toolEfficiency" : 8.0,
+  "tints" : {
+    "glyph" : "333399",
+    "texture" : "333399"
+  },
+  "textures" : [ "metal", "default" ],
+  "material" : {
+    "items" : [ "rpgsmw:miphrilignot" ]
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:iron"
+  }
+}

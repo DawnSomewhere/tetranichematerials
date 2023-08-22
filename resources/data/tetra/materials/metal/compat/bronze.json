@@ -1,0 +1,31 @@
+{
+    "replace": true,
+     "key": "bronze",
+    "category": "metal",
+    "primary": 4.5,
+    "secondary": 4.2,
+    "tertiary": 1.6,
+    "durability": 200,
+    "integrityCost": 1,
+    "integrityGain": 5,
+    "magicCapacity": 78,
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": 5.5,
+    "tints": {
+        "glyph": "bronze_glyph",
+        "texture": "bronze"
+    },
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "material": {
+        "tag": "forge:ingots/bronze"
+    },
+    "improvements": {
+        "workable": 1
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:stone"
+    }
+}

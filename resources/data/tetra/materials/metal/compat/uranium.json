@@ -1,0 +1,32 @@
+{
+  "key" : "alltheores_uranium",
+  "category" : "metal",
+  "primary": 7,
+    "secondary": 6,
+    "tertiary": 1,
+    "durability": 500,
+    "integrityCost": 2,
+    "integrityGain": 5,
+    "magicCapacity": 85,
+  "toolLevel" : "minecraft:diamond",
+  "toolEfficiency" : 8,
+  "tints" : {
+    "glyph" : "669900",
+    "texture" : "669900"
+  },
+  "textures" : [ "metal", "heavy" ],
+  "material" : {
+    "tag": "forge:ingots/uranium"
+  },
+  "effects": {
+        "unstable": 20
+    },
+  "improvements": {
+    "tetranichematerials.innate_sword_poison": 1,
+    "tetranichematerials.innate_single_poison": 1,
+    "tetranichematerials.innate_double_poison": 1
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:iron"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "key" : "alltheores_platinum",
+  "category" : "metal",
+  "primary": 3.5,
+    "secondary": 6.2,
+    "tertiary": 0.6,
+    "durability": 40,
+    "integrityCost": 2,
+    "integrityGain": 3,
+    "magicCapacity": 80,
+  "toolLevel" : "minecraft:diamond",
+  "toolEfficiency" : 5.0,
+  "tints" : {
+    "glyph" : "ecf3f3",
+    "texture" : "ecf3f3"
+  },
+  "textures" : [ "metal", "default" ],
+  "material" : {
+    "tag": "forge:ingots/platinum"
+  },
+  "effects": {
+        "stabilizing": 25
+    },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:diamond"
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "key": "lapis",
+    "category": "stone",
+    "primary": 4,
+    "secondary": 3,
+    "tertiary": 0,
+    "durability": 50,
+    "integrityCost": 1,
+    "integrityGain": 3,
+    "magicCapacity": 200,
+    "toolLevel": "minecraft:stone",
+    "toolEfficiency": 4,
+    "tints": {
+        "glyph": "0066ff",
+        "texture": "0066ff"
+    },
+    "textures": [
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [ "minecraft:lapis_lazuli" ]
+    },
+    "effects": {
+        "intuit": 1
+	},
+    "requiredTools": {
+        "hammer_dig": "minecraft:stone"
+    }
+}
