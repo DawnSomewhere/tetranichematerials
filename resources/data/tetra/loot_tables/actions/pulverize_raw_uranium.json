@@ -1,0 +1,21 @@
+{
+  "pools":[
+    {
+      "name":"pulverize_raw_uranium",
+      "rolls":2,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "forge:dusts/uranium",
+          "expand":true,
+          "functions":[
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

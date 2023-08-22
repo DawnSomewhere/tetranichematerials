@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_silver_ingot_action",
+    "requirement":{
+      "items":[
+        "alltheores:silver_ingot"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_silver_ingot"
+  }
+]

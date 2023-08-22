@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_raw_silver_action",
+    "requirement":{
+      "items":[
+        "alltheores:raw_silver"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_raw_silver"
+  }
+]

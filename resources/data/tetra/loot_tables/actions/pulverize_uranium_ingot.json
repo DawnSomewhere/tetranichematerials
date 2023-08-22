@@ -1,0 +1,21 @@
+{
+  "pools":[
+    {
+      "name":"pulverize_uranium_ingot",
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "forge:dusts/uranium",
+          "expand":true,
+          "functions":[
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

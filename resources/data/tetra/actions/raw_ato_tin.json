@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_raw_tin_action",
+    "requirement":{
+      "items":[
+        "alltheores:raw_tin"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_raw_tin"
+  }
+]

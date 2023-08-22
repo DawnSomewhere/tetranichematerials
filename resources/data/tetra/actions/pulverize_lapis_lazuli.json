@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_lapis_lazuli_action",
+    "requirement":{
+      "items":[
+        "minecraft:lapis_lazuli"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_lapis_lazuli"
+  }
+]

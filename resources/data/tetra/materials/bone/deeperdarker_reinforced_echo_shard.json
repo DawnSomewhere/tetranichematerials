@@ -1,0 +1,31 @@
+{
+    "key": "deeperdarker_reinforced_echo_shard",
+    "category": "bone",
+    "primary": 8,
+    "secondary": 1.5,
+    "tertiary": 6,
+    "durability": 2000,
+    "integrityCost": 2,
+    "integrityGain": 8,
+    "magicCapacity": 125,
+    "toolLevel": "minecraft:netherite",
+    "toolEfficiency": 10,
+    "tints": {
+        "glyph": "02458d",
+        "texture": "02458d"
+    },
+    "textures": [
+        "bone",
+        "crude"
+    ],
+    "material": {
+        "items": [ "deeperdarker:reinforced_echo_shard" ]
+    },
+    "effects": {
+    "howling": [1, 1],
+    "shieldbreaker": 1
+  },
+    "requiredTools": {
+        "hammer_dig": "minecraft:diamond"
+    }
+}

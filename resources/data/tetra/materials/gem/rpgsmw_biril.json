@@ -1,0 +1,33 @@
+{
+  "key" : "rpgsmw_biril",
+  "category" : "gem",
+  "primary": 7,
+    "secondary": 2.9,
+    "tertiary": 0,
+  "durability" : 2500,
+  "integrityCost" : 2,
+  "integrityGain" : 5,
+  "magicCapacity" : 60,
+  "toolLevel" : "minecraft:diamond",
+  "toolEfficiency" : 8,
+  "tints" : {
+    "glyph" : "66ccff",
+    "texture" : "66ccff"
+  },
+  "textures" : [ 
+    "shiny",
+    "crude" 
+  ],
+  "material" : {
+    "items" : [ "rpgsmw:biril" ]
+  },
+  "improvements": {
+    "arrested": 0
+  },
+  "effects": {
+    "blocking": 16
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:iron"
+  }
+}

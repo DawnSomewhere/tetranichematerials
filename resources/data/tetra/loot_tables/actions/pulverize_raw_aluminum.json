@@ -1,0 +1,21 @@
+{
+  "pools":[
+    {
+      "name":"pulverize_raw_aluminum",
+      "rolls":2,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "forge:dusts/aluminum",
+          "expand":true,
+          "functions":[
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

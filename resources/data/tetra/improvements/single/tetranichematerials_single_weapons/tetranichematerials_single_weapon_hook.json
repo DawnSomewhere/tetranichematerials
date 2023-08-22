@@ -1,0 +1,10 @@
+[
+    {
+        "key": "tetranichematerials_single_weapon_hook",
+        "level": 1,
+        "integrity": -1,
+        "effects": {
+            "shieldbreaker": 1
+        }
+    }
+]

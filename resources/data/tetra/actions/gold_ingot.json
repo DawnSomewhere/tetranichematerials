@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_gold_ingot_action",
+    "requirement":{
+      "items":[
+        "minecraft:gold_ingot"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_gold_ingot"
+  }
+]

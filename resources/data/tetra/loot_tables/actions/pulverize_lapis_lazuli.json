@@ -1,0 +1,20 @@
+{
+  "pools":[
+    {
+      "name":"pulverize_lapis_lazuli",
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tetranichematerials:lapis_powder",
+          "functions":[
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

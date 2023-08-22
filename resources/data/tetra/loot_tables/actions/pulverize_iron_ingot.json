@@ -1,0 +1,20 @@
+{
+  "pools":[
+    {
+      "name":"pulverize_iron_ingot",
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tetranichematerials:iron_powder",
+          "functions":[
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

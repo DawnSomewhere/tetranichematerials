@@ -1,0 +1,9 @@
+[
+	{
+        "key": "sword_knightmetal",
+        "effects": {
+            "crushing": 4,
+            "shieldbreaker": 1
+        }
+    }
+]

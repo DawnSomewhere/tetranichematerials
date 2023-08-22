@@ -1,0 +1,16 @@
+[
+	{
+        "key": "tetranichematerials.innate_single_wither",
+        "level": 1,
+        "effects": {
+            "tetranichematerials.innateWither": 100
+        }
+    },
+    {
+        "key": "tetranichematerials.innate_single_wither",
+        "level": 2,
+        "effects": {
+            "tetranichematerials.innateWither": 150
+        }
+    }
+]

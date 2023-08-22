@@ -1,0 +1,9 @@
+[
+	{
+        "key": "single_head_knightmetal",
+        "effects": {
+            "crushing": 4,
+            "shieldbreaker": 1
+        }
+    }
+]

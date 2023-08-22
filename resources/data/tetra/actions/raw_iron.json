@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_raw_iron_action",
+    "requirement":{
+      "items":[
+        "minecraft:raw_iron"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_raw_iron"
+  }
+]

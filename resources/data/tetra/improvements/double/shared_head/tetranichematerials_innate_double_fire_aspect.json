@@ -1,0 +1,16 @@
+[
+	{
+        "key": "tetranichematerials.innateDoubleFireAspect",
+        "level": 1,
+        "effects": {
+            "tetranichematerials.innateFireAspect": 4
+        }
+    },
+    {
+        "key": "tetranichematerials.innateDoubleFireAspect",
+        "level": 2,
+        "effects": {
+            "tetranichematerials.innateFireAspect": 10
+        }
+    }
+]

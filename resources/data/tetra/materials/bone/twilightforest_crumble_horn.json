@@ -1,0 +1,31 @@
+{
+    "key": "twilightforest_crumble_horn",
+    "category": "bone",
+    "primary": 6,
+    "secondary": 2,
+    "tertiary": 5,
+    "durability": 150,
+    "integrityCost": 1,
+    "integrityGain": 5,
+    "magicCapacity": 125,
+    "toolLevel": "minecraft:stone",
+    "toolEfficiency": 5,
+    "tints": {
+        "glyph": "bone_glyph",
+        "texture": "bone"
+    },
+    "textures": [
+        "bone",
+        "crude"
+    ],
+    "material": {
+        "items": [ "twilightforest:crumble_horn" ],
+        "count": 0.5
+    },
+    "effects": {
+        "crushing": 1
+	},
+    "requiredTools": {
+        "hammer_dig": "minecraft:wood"
+    }
+}

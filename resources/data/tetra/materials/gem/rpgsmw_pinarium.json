@@ -1,0 +1,35 @@
+{
+  "key" : "rpgsmw_pinarium",
+  "category" : "gem",
+  "primary": 6,
+  "secondary": 2.9,
+  "tertiary": 0,
+  "durability": 1561,
+  "integrityCost": 2,
+  "integrityGain": 4,
+  "magicCapacity": 60,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 8,
+  "tints" : {
+    "glyph" : "cc3399",
+    "texture" : "cc3399"
+  },
+  "textures" : [ 
+    "shiny",
+    "crude" 
+  ],
+  "material" : {
+    "items" : [ "rpgsmw:pinarium" ]
+  },
+  "improvements": {
+    "arrested": 0
+  },
+  "effects": {
+    "sweeping": [ 2, 0.5 ],
+    "truesweep": 1,
+    "howling": [1, 1]
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:iron"
+  }
+}

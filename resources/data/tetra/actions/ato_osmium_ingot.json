@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_osmium_ingot_action",
+    "requirement":{
+      "items":[
+        "alltheores:osmium_ingot"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_osmium_ingot"
+  }
+]

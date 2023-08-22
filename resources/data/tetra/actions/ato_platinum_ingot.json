@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_platinum_ingot_action",
+    "requirement":{
+      "items":[
+        "alltheores:platinum_ingot"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_platinum_ingot"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_copper_ingot_action",
+    "requirement":{
+      "items":[
+        "minecraft:copper_ingot"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_copper_ingot"
+  }
+]

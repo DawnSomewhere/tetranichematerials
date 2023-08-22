@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_coal_action",
+    "requirement":{
+      "items":[
+        "minecraft:coal"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_coal"
+  }
+]

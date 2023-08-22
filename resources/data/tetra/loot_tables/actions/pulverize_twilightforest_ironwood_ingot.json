@@ -1,0 +1,20 @@
+{
+  "pools":[
+    {
+      "name":"/**/pulverize_twilightforest_ironwood_ingot",
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tetranichematerials:ironwood_powder",
+          "functions":[
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

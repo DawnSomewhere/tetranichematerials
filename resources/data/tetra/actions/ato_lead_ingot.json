@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_lead_ingot_action",
+    "requirement":{
+      "items":[
+        "alltheores:lead_ingot"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_lead_ingot"
+  }
+]

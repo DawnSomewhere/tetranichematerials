@@ -1,0 +1,27 @@
+{
+    "key": "deeperdarker_sculk_bone",
+    "category": "bone",
+    "primary": 7,
+    "secondary": 1.5,
+    "tertiary": 6,
+    "durability": 500,
+    "integrityCost": 1,
+    "integrityGain": 6,
+    "magicCapacity": 125,
+    "toolLevel": "minecraft:netherite",
+    "toolEfficiency": 8,
+    "tints": {
+        "glyph": "bone_glyph",
+        "texture": "bone"
+    },
+    "textures": [
+        "bone",
+        "crude"
+    ],
+    "material": {
+        "items": [ "deeperdarker:sculk_bone" ]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:diamond"
+    }
+}

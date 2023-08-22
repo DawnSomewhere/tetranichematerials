@@ -1,0 +1,33 @@
+{
+  "key" : "rpgsmw_edmantium",
+  "category" : "gem",
+  "primary": 5,
+  "secondary": 4,
+  "tertiary": 0,
+  "durability": 1400,
+  "integrityCost": 2,
+  "integrityGain": 4,
+  "magicCapacity": 60,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 8,
+  "tints" : {
+    "glyph" : "ccffcc",
+    "texture" : "ccffcc"
+  },
+  "textures" : [ 
+    "shiny",
+    "crude" 
+  ],
+  "material" : {
+    "items" : [ "rpgsmw:edmantium" ]
+  },
+  "effects": {
+    "backstab": 7
+  },
+  "improvements": {
+    "arrested": 0
+  },
+  "requiredTools" : {
+    "hammer_dig" : "minecraft:iron"
+  }
+}

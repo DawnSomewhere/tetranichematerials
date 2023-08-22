@@ -1,0 +1,37 @@
+[
+	{
+        "key": "tetranichematerials.innate_single_smiting",
+        "level": 1,
+        "effects": {
+            "tetranichematerials.innateSmiting": 2.5
+        }
+    },
+    {
+        "key": "tetranichematerials.innate_single_smiting",
+        "level": 2,
+        "effects": {
+            "tetranichematerials.innateSmiting": 5
+        }
+    },
+    {
+        "key": "tetranichematerials.innate_single_smiting",
+        "level": 3,
+        "effects": {
+            "tetranichematerials.innateSmiting": 7.5
+        }
+    },
+    {
+        "key": "tetranichematerials.innate_single_smiting",
+        "level": 4,
+        "effects": {
+            "tetranichematerials.innateSmiting": 10
+        }
+    },
+    {
+        "key": "tetranichematerials.innate_single_smiting",
+        "level": 5,
+        "effects": {
+            "tetranichematerials.innateSmiting": 12.5
+        }
+    }
+]

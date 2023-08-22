@@ -1,0 +1,16 @@
+[
+	{
+        "key": "tetranichematerials.innate_sword_poison",
+        "level": 1,
+        "effects": {
+            "tetranichematerials.innatePoison": 100
+        }
+    },
+    {
+        "key": "tetranichematerials.innate_sword_poison",
+        "level": 2,
+        "effects": {
+            "tetranichematerials.innatePoison": 150
+        }
+    }
+]

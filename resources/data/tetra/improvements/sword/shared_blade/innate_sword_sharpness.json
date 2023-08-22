@@ -1,0 +1,37 @@
+[
+	{
+        "key": "innate_sword_sharpness",
+        "level": 1,
+        "attributes": {
+            "generic.attack_damage": 1
+        }
+    },
+    {
+        "key": "innate_sword_sharpness",
+        "level": 2,
+        "attributes": {
+            "generic.attack_damage": 2
+        }
+    },
+    {
+        "key": "innate_sword_sharpness",
+        "level": 3,
+        "attributes": {
+            "generic.attack_damage": 3
+        }
+    },
+    {
+        "key": "innate_sword_sharpness",
+        "level": 4,
+        "attributes": {
+            "generic.attack_damage": 4
+        }
+    },
+    {
+        "key": "innate_sword_sharpness",
+        "level": 5,
+        "attributes": {
+            "generic.attack_damage": 5
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+	{
+        "key": "tetranichematerials.double_life_bane",
+        "level": 1,
+        "effects": {
+            "tetranichematerials.lifeBane": 2.5
+        }
+    },
+    {
+        "key": "tetranichematerials.double_life_bane",
+        "level": 2,
+        "effects": {
+            "tetranichematerials.lifeBane": 5
+        }
+    },
+    {
+        "key": "tetranichematerials.double_life_bane",
+        "level": 3,
+        "effects": {
+            "tetranichematerials.lifeBane": 7.5
+        }
+    },
+    {
+        "key": "tetranichematerials.double_life_bane",
+        "level": 4,
+        "effects": {
+            "tetranichematerials.lifeBane": 10
+        }
+    },
+    {
+        "key": "tetranichematerials.double_life_bane",
+        "level": 5,
+        "effects": {
+            "tetranichematerials.lifeBane": 12.5
+        }
+    }
+]

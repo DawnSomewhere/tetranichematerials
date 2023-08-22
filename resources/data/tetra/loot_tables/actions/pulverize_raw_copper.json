@@ -1,0 +1,20 @@
+{
+  "pools":[
+    {
+      "name":"pulverize_raw_copper",
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tetranichematerials:copper_powder",
+          "functions":[
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

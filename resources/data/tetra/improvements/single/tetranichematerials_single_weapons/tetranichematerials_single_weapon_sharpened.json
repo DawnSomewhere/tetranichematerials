@@ -1,0 +1,32 @@
+[
+    {
+        "key": "tetranichematerials_single_weapon_sharpened",
+        "level": 1,
+        "integrity": -1,
+        "effects": {
+            "skewering": [ 1, 1 ]
+        }
+    },
+    {
+        "key": "tetranichematerials_single_weapon_sharpened",
+        "level": 2,
+        "integrity": -1,
+        "aspects": {
+            "honed": 1
+        },
+        "effects": {
+            "skewering": [ 2, 1 ]
+        }
+    },
+    {
+        "key": "tetranichematerials_single_weapon_sharpened",
+        "level": 3,
+        "integrity": -2,
+        "aspects": {
+            "honed": 2
+        },
+        "effects": {
+            "skewering": [ 3, 1 ]
+        }
+    }
+]

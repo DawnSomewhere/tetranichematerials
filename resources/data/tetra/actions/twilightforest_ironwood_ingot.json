@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_twilightforest_ironwood_ingot_action",
+    "requirement":{
+      "items":[
+        "twilightforest:ironwood_ingot"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_twilightforest_ironwood_ingot"
+  }
+]

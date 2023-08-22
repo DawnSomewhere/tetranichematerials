@@ -1,0 +1,14 @@
+[
+  {
+    "key":"pulverize_raw_aluminum_action",
+    "requirement":{
+      "items":[
+        "alltheores:raw_aluminum"
+      ]
+    },
+    "requiredTools":{
+      "hammer_dig":"minecraft:gold"
+    },
+    "lootTable":"tetra:actions/pulverize_raw_aluminum"
+  }
+]

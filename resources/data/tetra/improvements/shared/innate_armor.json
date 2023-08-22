@@ -1,0 +1,37 @@
+[
+	{
+        "key": "innate_armor",
+        "level": 1,
+        "attributes": {
+            "generic.armor": 2
+        }
+    },
+    {
+        "key": "innate_armor",
+        "level": 2,
+        "attributes": {
+            "generic.armor": 4
+        }
+    },
+    {
+        "key": "innate_armor",
+        "level": 3,
+        "attributes": {
+            "generic.armor": 6
+        }
+    },
+    {
+        "key": "innate_armor",
+        "level": 4,
+        "attributes": {
+            "generic.armor": 8
+        }
+    },
+    {
+        "key": "innate_armor",
+        "level": 5,
+        "attributes": {
+            "generic.armor": 10
+        }
+    }
+]
