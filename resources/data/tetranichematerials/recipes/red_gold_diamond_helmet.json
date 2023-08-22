@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "tetranichematerials:red_gold_armor_helmet"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "tetranichematerials:red_gold_diamond_armor_helmet"
+  }
+}

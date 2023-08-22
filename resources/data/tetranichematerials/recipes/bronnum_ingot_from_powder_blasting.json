@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "tetranichematerials:bronnum_powder"
+  },
+  "result": "tetranichematerials:bronnum_ingot"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "tetranichematerials:lockwood_powder"
+  },
+  "result": "tetranichematerials:lockwood_ingot"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+        "item": "tetranichematerials:lapis_powder"
+    },
+    {
+        "item": "tetranichematerials:lapis_powder"
+    },
+    {
+        "item": "minecraft:glowstone_dust"
+	},
+    {
+        "tag": "forge:dusts/iron"
+	},
+    {
+        "tag": "forge:dusts/iron"
+	},
+    {
+        "tag": "forge:dusts/iron"
+	},
+    {
+        "tag": "forge:dusts/iron"
+	},
+    {
+        "tag": "forge:dusts/iron"
+	},
+    {
+        "tag": "forge:dusts/iron"
+	}
+  ],
+  "result": {
+    "count": 9,
+    "item": "tetranichematerials:blurine_powder"
+  }
+}

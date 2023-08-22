@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tetranichematerials",
+  "key": {
+    "a": {
+        "item": "tetranichematerials:burning_steel_ingot"
+    }
+  },
+  "pattern": [
+    "a a",
+    "a a",
+    "   "
+  ],
+  "result": {
+    "item": "tetranichematerials:burning_steel_armor_feet"
+  }
+}

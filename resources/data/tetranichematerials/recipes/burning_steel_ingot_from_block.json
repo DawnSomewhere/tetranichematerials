@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tetranichematerials:burning_steel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tetranichematerials:burning_steel_ingot"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tetranichematerials",
+  "key": {
+    "a": {
+      "item": "tetranichematerials:blurine_ingot"
+    },
+    "d": {
+      "item": "tetranichematerials:darkbottom_bone"
+    }
+  },
+  "pattern": [
+    "dad",
+    "d d",
+    "d d"
+  ],
+  "result": {
+    "item": "tetranichematerials:darkbottom_armor_legs"
+  }
+}

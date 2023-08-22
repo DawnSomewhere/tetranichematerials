@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tetranichematerials",
+  "key": {
+    "a": {
+        "item": "tetranichematerials:lockwood_ingot"
+    }
+  },
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "result": {
+    "item": "tetranichematerials:lockwood_armor_chest"
+  }
+}

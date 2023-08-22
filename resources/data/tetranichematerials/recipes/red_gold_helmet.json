@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tetranichematerials",
+  "key": {
+    "a": {
+        "item": "tetranichematerials:red_gold_ingot"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "a a",
+    "   "
+  ],
+  "result": {
+    "item": "tetranichematerials:red_gold_armor_helmet"
+  }
+}

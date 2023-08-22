@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tetranichematerials",
+  "key": {
+    "a": {
+        "item": "tetranichematerials:grave_steel_ingot"
+    }
+  },
+  "pattern": [
+    "a a",
+    "a a",
+    "   "
+  ],
+  "result": {
+    "item": "tetranichematerials:grave_steel_armor_feet"
+  }
+}

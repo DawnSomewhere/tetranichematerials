@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tetranichematerials:ironwood_powder"
+    },
+    {
+      "item": "tetranichematerials:ironwood_powder"
+    },
+    {
+      "item": "tetranichematerials:ironwood_powder"
+    },
+    {
+      "item": "tetranichematerials:ironwood_powder"
+    },
+    {
+        "item": "tetranichematerials:pulverized_coal"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "tetranichematerials:lockwood_powder"
+  }
+}

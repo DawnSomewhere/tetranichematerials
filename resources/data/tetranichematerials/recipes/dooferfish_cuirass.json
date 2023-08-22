@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tetranichematerials",
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "d": {
+      "item": "tetranichematerials:dooferfish_scales"
+    }
+  },
+  "pattern": [
+    "a a",
+    "ddd",
+    "dad"
+  ],
+  "result": {
+    "item": "tetranichematerials:dooferfish_armor_chest"
+  }
+}

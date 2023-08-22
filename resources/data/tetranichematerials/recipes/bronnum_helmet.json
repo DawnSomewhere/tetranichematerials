@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tetranichematerials",
+  "key": {
+    "a": {
+        "item": "tetranichematerials:bronnum_ingot"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "a a",
+    "   "
+  ],
+  "result": {
+    "item": "tetranichematerials:bronnum_armor_helmet"
+  }
+}

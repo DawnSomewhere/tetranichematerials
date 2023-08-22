@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "tetranichematerials:blurine_powder"
+  },
+  "result": "tetranichematerials:blurine_ingot"
+}

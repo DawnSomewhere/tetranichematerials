@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tetranichematerials:white_gold_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tetranichematerials:white_gold_ingot"
+  }
+}

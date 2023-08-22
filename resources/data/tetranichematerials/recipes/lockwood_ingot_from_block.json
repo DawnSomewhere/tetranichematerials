@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tetranichematerials:lockwood_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tetranichematerials:lockwood_ingot"
+  }
+}

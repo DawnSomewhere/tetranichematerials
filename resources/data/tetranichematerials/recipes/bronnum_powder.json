@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:redstone"
+    },
+    {
+        "item": "minecraft:redstone"
+    },
+    {
+        "tag": "forge:dusts/copper"
+	},
+    {
+        "tag": "forge:dusts/copper"
+	},
+    {
+        "tag": "forge:dusts/copper"
+	},
+    {
+        "tag": "forge:dusts/copper"
+	},
+    {
+        "tag": "forge:dusts/copper"
+	},
+    {
+        "tag": "forge:dusts/copper"
+	},
+    {
+        "tag": "forge:dusts/iron"
+	}
+  ],
+  "result": {
+    "count": 8,
+    "item": "tetranichematerials:bronnum_powder"
+  }
+}
