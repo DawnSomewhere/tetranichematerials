@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tetranichematerials:item/white_gold_armor_chest"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tetranichematerials:item/grave_steel_armor_feet"
+  }
+}

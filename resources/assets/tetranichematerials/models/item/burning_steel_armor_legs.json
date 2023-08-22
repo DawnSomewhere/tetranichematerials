@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tetranichematerials:item/burning_steel_armor_legs"
+  }
+}
