@@ -1,0 +1,27 @@
+{
+  "replace":true,
+  "slots":["single/head"],
+  "materialSlotCount":0,
+  "displayType":"improvement",
+  "glyph":{
+    "textureLocation": "tetranichematerials:textures/gui/tetranichematerials_glyph.png",
+    "textureX": 64
+  },
+  "requirement": {
+    "type": "tetra:not",
+    "requirement": {
+      "type":"tetra:improvement",
+      "improvement":"tetranichematerials_single_weapon_hook"
+    }
+  },
+  "outcomes":[
+    {
+      "requiredTools": {
+        "hammer_dig":"minecraft:stone"
+      },
+      "improvements": {
+        "tetranichematerials_single_weapon_hook":1
+      }
+    }
+  ]
+}

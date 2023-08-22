@@ -1,0 +1,34 @@
+{
+  "replace": true,
+  "slots": [
+    "single/head"
+  ],
+  "materialSlotCount": 1,
+  "displayType": "major",
+  "glyph": {
+    "textureLocation": "tetranichematerials:textures/gui/tetranichematerials_glyph.png",
+    "textureX": 0
+  },
+  "translation": {
+    "primaryAttributes": {
+      "generic.attack_damage": 3
+    },
+    "secondaryAttributes": {
+      "generic.attack_speed": -0.75,
+      "generic.attack_damage": 0.75
+    },
+    "secondaryEffects": {
+      "throwable":[0,1]
+    },
+    "durability": 3,
+    "integrity": -3,
+    "magicCapacity": 3
+  },
+  "outcomes": [
+    {
+      "materials": [ "tetra:wood/", "tetra:stone/", "tetra:metal/", "tetra:gem/", "tetra:bone/" ],
+      "moduleKey": "single/tetranichematerials_javelin_head",
+      "moduleVariant": "tetranichematerials_javelin_head/"
+    }
+  ]
+}

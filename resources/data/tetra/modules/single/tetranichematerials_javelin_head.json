@@ -1,0 +1,44 @@
+{
+    "replace":true,
+    "type":"tetra:basic_major_module",
+    "slots":["single/head"],
+    "improvements":["tetra:single/tetranichematerials_single_weapons/","tetra:single/shared_head/","tetra:single/shared/","tetra:shared/"],
+    "variants":[
+        {
+            "materials":["tetra:wood/","tetra:stone/","tetra:metal/","tetra:gem/","tetra:bone/"],
+            "key":"tetranichematerials_javelin_head/",
+            "attributes":{"generic.attack_speed":-0.9},
+            "aspects":{
+                "blockBreaker":2,
+                "pointyWeapon":1,
+                "throwable":1,
+                "breakable":2
+            },
+            "effects": {
+                "throwable": [ 1, 0.25 ]
+            },
+            "durability":-20,
+            "extract":{
+                "primaryAttributes":{
+                    "generic.attack_damage":1.2
+                },
+                "secondaryAttributes":{
+                    "generic.attack_speed":-0.05,
+                    "generic.attack_damage":0.05
+                },
+                "secondaryEffects": {
+                    "throwable": [ 0, 0.1 ]
+                },
+                "durability":0.8,
+                "integrity":-1,
+                "magicCapacity":1,
+                "glyph":{
+                    "textureLocation": "tetranichematerials:textures/gui/tetranichematerials_glyph.png",
+                    "textureX": 0
+                },
+                "availableTextures":["metal","shiny","crude"],
+                "models":[{"location":"tetra:items/module/single/head/tetranichematerials_javelin_head/"}]
+            }
+        }
+    ]
+}

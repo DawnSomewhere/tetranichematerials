@@ -1,0 +1,37 @@
+{
+  "replace":true,
+  "slots":["sword/blade"],
+  "materialSlotCount":1,
+  "displayType":"major",
+  "glyph":{
+    "textureLocation": "tetranichematerials:textures/gui/tetranichematerials_glyph.png",
+    "textureX": 96
+  },
+  "translation":{
+    "primaryAttributes":{
+      "generic.attack_damage":3
+    },
+    "primaryEffects": {
+      "bleeding":0.5
+    },
+    "tertiaryEffects": {
+      "bleeding":0.1
+    },
+    "durability":4,
+    "integrity":-3,
+    "magicCapacity":3
+  },
+  "outcomes":[
+    {
+      "materials":[
+        "tetra:wood/",
+        "tetra:stone/",
+        "tetra:metal/",
+        "tetra:gem/",
+        "tetra:bone/"],
+      "countFactor":2,
+      "moduleKey":"sword/tetranichematerials_scimitar",
+      "moduleVariant":"tetranichematerials_scimitar/"
+    }
+  ]
+}

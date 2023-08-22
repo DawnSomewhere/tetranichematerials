@@ -1,0 +1,27 @@
+{
+  "replace":true,
+  "slots":["single/head"],
+  "materialSlotCount":0,
+  "hone": true,
+  "rarity": "hone",
+  "displayType": "major",
+  "glyph":{
+    "textureLocation": "tetranichematerials:textures/gui/tetranichematerials_glyph.png",
+    "textureX": 48
+  },
+  "requirement": {
+    "type": "tetra:improvement",
+    "improvement": "tetranichematerials_single_weapon_sharpened",
+    "level": 2
+  },
+  "outcomes":[
+    {
+      "requiredTools": {
+        "hammer_dig":"minecraft:stone"
+      },
+      "improvements": {
+        "tetranichematerials_single_weapon_sharpened":3
+      }
+    }
+  ]
+}
