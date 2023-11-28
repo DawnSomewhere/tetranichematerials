@@ -24,7 +24,7 @@ public class TetraEffects {
 	
 	@SubscribeEvent
     public static void onLivingDamage(LivingDamageEvent event) {
-		LivingEntity sourceEntity = (LivingEntity) event.getSource().getEntity();
+		LivingEntity sourceEntity = CastOptional.cast(event.getSource().getDirectEntity(), Player.class)
 		LivingEntity target = event.getEntity();
 
 		// If the attacker is a player
